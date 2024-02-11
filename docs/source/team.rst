@@ -1,0 +1,28 @@
+Team
+====
+
+- Akaxia Cruz (CCA)
+- Alex Garcia (University of Virgina)
+- Andrea Caputo (CERN)
+- Arya Farahi (UT Austin)
+- Cian Roche (MIT)
+- Daniel Angles-Alcazar (University of Connecticut)
+- Francis-Yan Cyr-Racine (University of New Mexico)
+- Francisco Villaescusa-Navarro (Simons Foundation)
+- Jonah Rose (University of Florida)
+- Julian Munoz (UT Austin)
+- Kassidy Kollmann (Princeton University)
+- Lina Necib (MIT)
+- Mariangela Lisanti (Princeton University)
+- Mark Vogelsberger (MIT)
+- Mikhail Medvedev (Kansas University)
+- Nitya Kallivayalil (University of Virginia)
+- Paul Torrey (University of Virginia)
+- Robyn Sanderson (University of Pennsylvania)
+- Romain Teyssier (Princeton University)
+- Ryan Low (Kansas University)
+- Sandip Roy (Princeton University)
+- Shy Genel (CCA)
+- Soumyodipta Karmakar (University of New Mexico)
+- Tri Nguyen (MIT)
+
