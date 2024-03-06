@@ -12,7 +12,6 @@ DREAMS stands for **D**\a\ **R**\k matt\ **E**\r with **A**\I and si\ **M**\ulat
    :maxdepth: 2
    :caption: DREAMS
 
-   news
    goals
    publications
    data_access
