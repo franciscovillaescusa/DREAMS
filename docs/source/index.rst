@@ -24,6 +24,7 @@ DREAMS stands for **D**\a\ **R**\k matt\ **E**\r with **A**\I and si\ **M**\ulat
 
    description
    dark_matter
+   types
    codes
    parameters
 
