@@ -42,11 +42,12 @@ where
 We emphasize that cold dark matter is contained in these models: cold dark matter can be recovered by taking large WDM masses. 
 
 
-Hpeak - Kpeak
-~~~~~~~~~~~~~
+Hpeak - Kpeak and ETHOS
+~~~~~~~~~~~~~~~~~~~~~~~
 
-ETHOS
-~~~~~
+
+
+
 
 Atomic dark matter
 ~~~~~~~~~~~~~~~~~~
