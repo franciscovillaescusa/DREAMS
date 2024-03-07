@@ -53,11 +53,13 @@ This table shows the characteristics of the DREAMS simulations:
 |                          | Dwarfs           | Ramses       | Varied     | 1024        | Planned  |
 +--------------------------+------------------+--------------+------------+-------------+----------+
 +--------------------------+------------------+--------------+------------+-------------+----------+
-| Warm dark matter (WDM)   | Boxes            | IllustrisTNG | Varied     | 1024        | Complete |
+| Warm dark matter (WDM)   | Boxes            | N-body       | Fixed      | 600         | Complete |
 |                          +------------------+--------------+------------+-------------+----------+
-|                          | Milky Way        | IllustrisTNG | Varied     | 1024        | Running  |
+|                          | Boxes            | N-body       | Varied     | 1000        | Complete |
 |                          +------------------+--------------+------------+-------------+----------+
-|                          | Dwarfs           | Ramses       | Varied     | 1024        | Planned  |
+|                          | Boxes            | IllustrisTNG | Varied     | 1024        | Complete |
+|                          +------------------+--------------+------------+-------------+----------+
+|                          | Milky Way        | IllustrisTNG | Fixed      | 1024        | Complete |
 +--------------------------+------------------+--------------+------------+-------------+----------+
 +--------------------------+------------------+--------------+------------+-------------+----------+
 | Hpeak Kpeak              | Boxes            | N-body       | Fixed      | 400         | Complete |
