@@ -19,7 +19,11 @@ extensions = [
     "nbsphinx",
     "sphinx_gallery.load_style",
     "sphinx_rtd_theme",
+    "sphinxcontrib.googleanalytics"
 ]
+
+googleanalytics_id = 'G-XRRM15GMS9'
+googleanalytics_enabled = True
 
 templates_path = ['_templates']
 exclude_patterns = []
