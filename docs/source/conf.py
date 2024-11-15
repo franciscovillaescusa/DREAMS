@@ -19,11 +19,14 @@ extensions = [
     "nbsphinx",
     "sphinx_gallery.load_style",
     "sphinx_rtd_theme",
-    "sphinxcontrib.googleanalytics"
+    "sphinxcontrib.googleanalytics",
+    "sphinx_sitemap"
 ]
 
 googleanalytics_id = 'G-XRRM15GMS9'
 googleanalytics_enabled = True
+
+html_baseurl = 'https://dreams-project.readthedocs.io/en/latest/'
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -44,3 +47,5 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
 }
+
+html_extra_path = ["robots.txt"]
