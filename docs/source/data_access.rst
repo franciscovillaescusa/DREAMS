@@ -7,6 +7,4 @@ Data access
 
 Data can be accessed via:
 
-- URL
-- Globus
-- Binder
+- `Globus <https://app.globus.org/file-manager?origin_id=fa06ab4e-3fb5-436e-b535-99b4995553ad&origin_path=%2F>`_.
